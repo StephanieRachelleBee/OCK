@@ -2,6 +2,6 @@
 # Im new here.
 # I am a student of Ivy Teck.
 # In the prosses of learning IT 
-# I really want to lean about computer systems
+# I really want to learn about computer systems
 # so I can get a career in the field of cloud engineering
 
